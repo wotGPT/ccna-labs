@@ -25,3 +25,6 @@ Build a simple Local Area Network (LAN) using a switch and verify connectivity b
 - Devices must be in the same subnet to communicate
 - Switches allow devices in the same network to communicate
 - Ping is a basic but powerful troubleshooting tool
+
+
+> Note: Connectivity will fail if devices are in different subnets, which will be explored in later labs.
