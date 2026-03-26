@@ -10,7 +10,7 @@ Visualize how data travels between two devices using the OSI model and observe h
 
 Two PCs (PC0 and PC1) connected to a single switch.
 
-![Topology](topology.png)
+![Topology](topology-lab-02.png)
 
 ---
 
