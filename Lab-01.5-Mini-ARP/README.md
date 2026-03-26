@@ -6,7 +6,7 @@ Observe ARP behavior and understand how devices map IP addresses to MAC addresse
 ## Topology
 Two PCs connected to a switch:
 
-![Topology](topology.png)
+![Topology](topology-lab1-5.png)
 
 ## Steps Performed
 1. Cleared ARP tables on both PCs (`arp -d`)
