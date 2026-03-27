@@ -44,6 +44,3 @@ To build practical networking skills, understand how networks operate at multipl
 
 * All labs include screenshots for topology, device configuration, interface verification, and verification pings where applicable.
 * Labs are documented with structured README files to demonstrate process, observations, and key takeaways.
-
-* All labs include screenshots for topology, device configuration, interface verification, and verification pings where applicable.
-* Labs are documented with structured README files to demonstrate process, observations, and key takeaways.
