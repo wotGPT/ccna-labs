@@ -8,29 +8,34 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 
 ### Lab-01-Basic-Network
 
-* Built a simple LAN using a switch and verified connectivity between two PCs.
-* Focused on IP addressing and basic network communication.
+* Built a simple LAN using a switch and verified connectivity between two PCs
+* Focused on IP addressing and basic communication
 
 ### Lab-01.5-Mini-ARP
 
-* Explored ARP (Address Resolution Protocol) to understand how devices map IP addresses to MAC addresses.
-* Observed ARP behavior and packet flow in simulation mode.
+* Explored ARP to understand IP-to-MAC address mapping
+* Observed packet behavior in simulation mode
 
 ### Lab-02-OSI-Model-&-Packet-Flow
 
-* Examined how data moves through the OSI model.
-* Used simulation mode to analyze ICMP requests/replies and protocol interactions across layers.
+* Analyzed how data travels through OSI layers
+* Observed ICMP and ARP traffic in detail
 
 ### Lab-03-Subnetting-&-Inter-Network-Communication
 
-* Connected two separate networks using a router.
-* Practiced default gateway configuration and step-by-step troubleshooting techniques.
+* Connected two networks using a router
+* Practiced gateway configuration and troubleshooting
 
 ### Lab-04-Static-Routing-(Multi-Router-Network)
 
-* Built a multi-router topology using R0 and R1.
-* Configured static routes to enable communication between separate networks.
-* Verified routing tables and performed end-to-end connectivity testing.
+* Built a multi-router topology using R0 and R1
+* Configured static routes for inter-network communication
+
+### Lab-05-Dynamic-Routing-(OSPF)
+
+* Implemented OSPF for dynamic route learning
+* Verified neighbor relationships and routing tables
+* Replaced static routing with automated network discovery
 
 ---
 
@@ -42,12 +47,12 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 
 ## Goal
 
-To develop practical networking skills, understand how networks operate across multiple layers, and demonstrate readiness for entry-level networking roles such as a NOC Technician.
+To develop practical networking skills, understand real-world network behavior, and demonstrate readiness for entry-level networking roles such as a NOC Technician.
 
 ---
 
 ## Notes
 
 * Each lab includes topology diagrams, configuration screenshots, and verification steps
-* Labs are documented using structured README files for clarity and reproducibility
-* The progression of labs reflects increasing network complexity and real-world scenarios
+* Labs are documented with structured README files for clarity and reproducibility
+* Lab progression reflects increasing complexity and real-world networking scenarios
