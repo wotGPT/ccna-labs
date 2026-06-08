@@ -1,55 +1,100 @@
 # CCNA Lab Portfolio
 
-This repository contains hands-on labs completed while studying for the CCNA certification. Each lab demonstrates practical networking skills, structured troubleshooting, and an understanding of core networking concepts required for an NOC Technician role.
+This repository contains hands-on labs completed while studying for the CCNA certification. Each lab demonstrates practical networking skills, structured troubleshooting, and an understanding of core networking concepts required for entry-level networking and NOC positions.
 
 ---
 
 ## Labs
 
 ### Lab-01-Basic-Network
+
 - Built a simple LAN using a switch and verified connectivity between two PCs
-- Focused on IP addressing and basic communication
+- Practiced IPv4 addressing and basic network communication
+- Introduced troubleshooting using ping
 
 ### Lab-01.5-Mini-ARP
-- Explored ARP to understand IP-to-MAC address mapping
-- Observed packet behavior in simulation mode
+
+- Explored ARP packet behavior
+- Observed IP-to-MAC address resolution
+- Used Packet Tracer Simulation Mode to analyze ARP traffic
 
 ### Lab-02-OSI-Model-&-Packet-Flow
-- Analyzed how data travels through OSI layers
-- Observed ICMP and ARP traffic in detail
+
+- Examined packet flow through the OSI model
+- Observed ARP and ICMP traffic
+- Reinforced encapsulation and decapsulation concepts
 
 ### Lab-03-Subnetting-&-Inter-Network-Communication
-- Connected two networks using a router
-- Practiced gateway configuration and troubleshooting
+
+- Connected multiple networks using a router
+- Configured router interfaces and default gateways
+- Practiced Layer 3 forwarding between networks
 
 ### Lab-04-Static-Routing-(Multi-Router-Network)
-- Built a multi-router topology using R0 and R1
-- Configured static routes for inter-network communication
+
+- Built a two-router network
+- Configured static routes
+- Verified communication across remote networks
+- Examined routing table entries learned through static routing
 
 ### Lab-05-Dynamic-Routing-(OSPF)
-- Implemented OSPF for dynamic route learning
-- Verified neighbor relationships and routing tables
-- Replaced static routing with automated network discovery
+
+- Implemented OSPF dynamic routing
+- Established OSPF neighbor relationships
+- Replaced static routes with automated route learning
+- Verified OSPF-learned routes in the routing table
 
 ### Lab-06-Multi-Router-OSPF
-- Built a three-router OSPF topology
-- Verified multiple OSPF neighbor relationships
-- Observed dynamic route learning across a larger network
-- Practiced using `/30` WAN links for router-to-router connections
+
+- Expanded OSPF into a three-router topology
+- Configured multiple OSPF neighbor relationships
+- Used /30 point-to-point WAN networks
+- Verified route propagation across multiple routers
+- Reinforced OSPF Area 0 concepts
+
+### Lab-07-OSPF-Failover-&-Convergence
+
+- Simulated a WAN link failure between routers
+- Observed OSPF neighbor changes during convergence
+- Verified automatic route recalculation
+- Confirmed end-to-end connectivity through an alternate path
+- Restored the failed WAN link and verified OSPF recovery
+- Demonstrated network resiliency using dynamic routing
 
 ---
 
 ## Tools Used
+
 - Cisco Packet Tracer
+- GitHub
+- Markdown Documentation
+
+---
+
+## Skills Demonstrated
+
+- IPv4 Addressing
+- Subnetting Fundamentals
+- ARP Analysis
+- Router Configuration
+- Static Routing
+- Dynamic Routing (OSPF)
+- OSPF Neighbor Relationships
+- Route Verification
+- Network Troubleshooting
+- Network Documentation
+- GitHub Portfolio Management
 
 ---
 
 ## Goal
-To develop practical networking skills, understand real-world network behavior, and demonstrate readiness for entry-level networking roles such as an NOC Technician.
+
+To develop practical networking skills, build a professional portfolio, and prepare for the CCNA certification while working toward an entry-level NOC or networking position.
 
 ---
 
 ## Notes
-- Each lab includes topology diagrams, configuration screenshots, and verification steps
-- Labs are documented with structured README files for clarity and reproducibility
-- Lab progression reflects increasing complexity and real-world networking scenarios
+
+- Each lab includes screenshots, configuration verification, and documented results.
+- Labs are designed to build progressively from basic networking concepts to more advanced routing and troubleshooting scenarios.
+- All labs are created and documented using Cisco Packet Tracer and GitHub.
