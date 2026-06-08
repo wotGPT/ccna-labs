@@ -45,7 +45,7 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 ---
 
 ## Goal
-To develop practical networking skills, understand real-world network behavior, and demonstrate readiness for entry-level networking roles such as a NOC Technician.
+To develop practical networking skills, understand real-world network behavior, and demonstrate readiness for entry-level networking roles such as an NOC Technician.
 
 ---
 
