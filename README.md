@@ -79,6 +79,15 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Tested communication before and after trunk configuration
 - Reinforced the relationship between access ports and trunk ports
 
+### Lab-10-Inter-VLAN-Routing
+
+- Implemented Router-on-a-Stick
+- Configured 802.1Q trunking between a switch and router
+- Created router subinterfaces for multiple VLANs
+- Configured default gateways for VLAN networks
+- Verified communication between VLAN 10 and VLAN 20
+- Demonstrated Layer 3 routing between VLANs
+
 ---
 
 ## Tools Used
@@ -99,6 +108,7 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Dynamic Routing (OSPF)
 - VLAN Configuration
 - VLAN Trunking
+- Inter-VLAN Routing
 - Network Segmentation
 - OSPF Neighbor Relationships
 - Route Verification
