@@ -88,6 +88,15 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Verified communication between VLAN 10 and VLAN 20
 - Demonstrated Layer 3 routing between VLANs
 
+### Lab-11-Spanning-Tree-Protocol
+
+- Configured redundant switch connections
+- Observed STP Root Bridge election
+- Identified blocked ports used to prevent Layer 2 loops
+- Simulated a switch-link failure
+- Verified STP convergence and backup path activation
+- Demonstrated Layer 2 redundancy and fault tolerance
+
 ---
 
 ## Tools Used
@@ -109,6 +118,9 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - VLAN Configuration
 - VLAN Trunking
 - Inter-VLAN Routing
+- Spanning Tree Protocol (STP)
+- Layer 2 Redundancy
+- Network Failover
 - Network Segmentation
 - OSPF Neighbor Relationships
 - Route Verification
