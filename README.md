@@ -30,7 +30,7 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Configured router interfaces and default gateways
 - Practiced Layer 3 forwarding between networks
 
-### Lab-04-Static-Routing-(Multi-Router-Network)
+### Lab-04-Static-Routing
 
 - Built a two-router network
 - Configured static routes
@@ -61,6 +61,15 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Restored the failed WAN link and verified OSPF recovery
 - Demonstrated network resiliency using dynamic routing
 
+### Lab-08-VLAN-Fundamentals
+
+- Created VLAN 10 (SALES) and VLAN 20 (ACCOUNTING)
+- Assigned switch access ports to specific VLANs
+- Verified VLAN membership using switch commands
+- Demonstrated network segmentation using VLANs
+- Tested communication between VLANs
+- Observed how VLANs create separate broadcast domains
+
 ---
 
 ## Tools Used
@@ -79,6 +88,8 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Router Configuration
 - Static Routing
 - Dynamic Routing (OSPF)
+- VLAN Configuration
+- Network Segmentation
 - OSPF Neighbor Relationships
 - Route Verification
 - Network Troubleshooting
