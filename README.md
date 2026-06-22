@@ -97,6 +97,15 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Verified STP convergence and backup path activation
 - Demonstrated Layer 2 redundancy and fault tolerance
 
+### Lab-12-EtherChannel
+
+- Configured EtherChannel using LACP
+- Bundled multiple physical links into a logical connection
+- Verified EtherChannel operation using switch commands
+- Observed STP interaction with EtherChannel
+- Simulated a member-link failure
+- Demonstrated increased redundancy and bandwidth utilization
+
 ---
 
 ## Tools Used
@@ -119,6 +128,7 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - VLAN Trunking
 - Inter-VLAN Routing
 - Spanning Tree Protocol (STP)
+- EtherChannel (LACP)
 - Layer 2 Redundancy
 - Network Failover
 - Network Segmentation
