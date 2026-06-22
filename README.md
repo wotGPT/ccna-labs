@@ -70,6 +70,15 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Tested communication between VLANs
 - Observed how VLANs create separate broadcast domains
 
+### Lab-09-VLAN-Trunking
+
+- Configured VLANs across multiple switches
+- Created an 802.1Q trunk connection
+- Verified trunk operation using switch commands
+- Demonstrated VLAN traffic traversing between switches
+- Tested communication before and after trunk configuration
+- Reinforced the relationship between access ports and trunk ports
+
 ---
 
 ## Tools Used
@@ -89,6 +98,7 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Static Routing
 - Dynamic Routing (OSPF)
 - VLAN Configuration
+- VLAN Trunking
 - Network Segmentation
 - OSPF Neighbor Relationships
 - Route Verification
