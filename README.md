@@ -106,6 +106,15 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Simulated a member-link failure
 - Demonstrated increased redundancy and bandwidth utilization
 
+### Lab-13-DHCP
+
+- Configured a Cisco router as a DHCP server
+- Created and managed a DHCP address pool
+- Reserved addresses using DHCP exclusions
+- Automatically assigned IP configuration to a client
+- Verified DHCP leases using router commands
+- Demonstrated automated network configuration services
+
 ---
 
 ## Tools Used
@@ -129,6 +138,7 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Inter-VLAN Routing
 - Spanning Tree Protocol (STP)
 - EtherChannel (LACP)
+- DHCP Configuration
 - Layer 2 Redundancy
 - Network Failover
 - Network Segmentation
