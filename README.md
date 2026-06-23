@@ -115,6 +115,16 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Verified DHCP leases using router commands
 - Demonstrated automated network configuration services
 
+### Lab-14-NAT
+
+- Configured NAT overload (PAT)
+- Defined NAT inside and outside interfaces
+- Created translation rules using access lists
+- Verified private-to-public address translation
+- Connected a private LAN to a simulated public network
+- Examined NAT translation tables
+- Demonstrated how Internet connectivity is enabled through NAT
+
 ---
 
 ## Tools Used
@@ -139,6 +149,7 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Spanning Tree Protocol (STP)
 - EtherChannel (LACP)
 - DHCP Configuration
+- Network Address Translation (NAT/PAT)
 - Layer 2 Redundancy
 - Network Failover
 - Network Segmentation
@@ -159,5 +170,5 @@ To develop practical networking skills, build a professional portfolio, and prep
 ## Notes
 
 - Each lab includes screenshots, configuration verification, and documented results.
-- Labs are designed to build progressively from basic networking concepts to more advanced routing and troubleshooting scenarios.
+- Labs are designed to build progressively from basic networking concepts to more advanced routing, switching, services, and troubleshooting scenarios.
 - All labs are created and documented using Cisco Packet Tracer and GitHub.
