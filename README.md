@@ -125,6 +125,15 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Examined NAT translation tables
 - Demonstrated how Internet connectivity is enabled through NAT
 
+### Lab-15-Standard-ACLs
+
+- Configured Standard Access Control Lists
+- Filtered traffic based on source IP addresses
+- Applied ACLs to router interfaces
+- Verified ACL operation using hit counters
+- Demonstrated traffic blocking and restoration
+- Introduced network traffic control and security concepts
+
 ---
 
 ## Tools Used
@@ -150,6 +159,7 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - EtherChannel (LACP)
 - DHCP Configuration
 - Network Address Translation (NAT/PAT)
+- Standard Access Control Lists (ACLs)
 - Layer 2 Redundancy
 - Network Failover
 - Network Segmentation
@@ -170,5 +180,5 @@ To develop practical networking skills, build a professional portfolio, and prep
 ## Notes
 
 - Each lab includes screenshots, configuration verification, and documented results.
-- Labs are designed to build progressively from basic networking concepts to more advanced routing, switching, services, and troubleshooting scenarios.
+- Labs are designed to build progressively from basic networking concepts to more advanced routing, switching, security, services, and troubleshooting scenarios.
 - All labs are created and documented using Cisco Packet Tracer and GitHub.
