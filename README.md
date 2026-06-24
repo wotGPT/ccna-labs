@@ -134,6 +134,15 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Demonstrated traffic blocking and restoration
 - Introduced network traffic control and security concepts
 
+### Lab-16-Extended-ACLs
+
+- Configured Extended Access Control Lists
+- Filtered traffic using protocols and port numbers
+- Blocked HTTP traffic while permitting ICMP traffic
+- Applied ACLs to router interfaces
+- Verified ACL operation using hit counters
+- Demonstrated granular traffic filtering and access control
+
 ---
 
 ## Tools Used
@@ -160,6 +169,7 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - DHCP Configuration
 - Network Address Translation (NAT/PAT)
 - Standard Access Control Lists (ACLs)
+- Extended Access Control Lists (ACLs)
 - Layer 2 Redundancy
 - Network Failover
 - Network Segmentation
