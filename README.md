@@ -151,7 +151,17 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Tested end-to-end IPv6 connectivity
 - Examined Neighbor Discovery Protocol (NDP)
 - Verified IPv6 routing table entries
-- Introduced IPv6 addressing and routing fundamentals
+- Introduced IPv6 addressing fundamentals
+
+### Lab-18-IPv6-Static-Routing
+
+- Configured IPv6 addressing across multiple routers
+- Enabled IPv6 routing on Cisco routers
+- Built an IPv6 point-to-point WAN
+- Configured IPv6 static routes
+- Verified IPv6 routing tables
+- Tested end-to-end IPv6 communication between remote LANs
+- Reinforced IPv6 routing concepts using static routes
 
 ---
 
@@ -167,9 +177,10 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 
 - IPv4 Addressing
 - IPv6 Addressing
+- IPv6 Static Routing
+- Neighbor Discovery Protocol (NDP)
 - Subnetting Fundamentals
 - ARP Analysis
-- Neighbor Discovery Protocol (NDP)
 - Router Configuration
 - Static Routing
 - Dynamic Routing (OSPF)
@@ -185,7 +196,6 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Layer 2 Redundancy
 - Network Failover
 - Network Segmentation
-- OSPF Neighbor Relationships
 - Route Verification
 - Network Troubleshooting
 - Network Documentation
@@ -195,12 +205,12 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 
 ## Goal
 
-To develop practical networking skills, build a professional portfolio, and prepare for the CCNA certification while working toward an entry-level NOC or networking position.
+To develop practical networking skills, build a professional GitHub portfolio, and prepare for the CCNA certification while working toward an entry-level NOC or networking position.
 
 ---
 
 ## Notes
 
 - Each lab includes screenshots, configuration verification, and documented results.
-- Labs are designed to build progressively from basic networking concepts to more advanced routing, switching, security, services, IPv6, and troubleshooting scenarios.
+- Labs are designed to build progressively from networking fundamentals to enterprise routing, switching, IPv6, security, services, and troubleshooting.
 - All labs are created and documented using Cisco Packet Tracer and GitHub.
