@@ -143,6 +143,16 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Verified ACL operation using hit counters
 - Demonstrated granular traffic filtering and access control
 
+### Lab-17-IPv6-Fundamentals
+
+- Configured IPv6 addressing on routers and hosts
+- Enabled IPv6 routing
+- Verified IPv6 interface configuration
+- Tested end-to-end IPv6 connectivity
+- Examined Neighbor Discovery Protocol (NDP)
+- Verified IPv6 routing table entries
+- Introduced IPv6 addressing and routing fundamentals
+
 ---
 
 ## Tools Used
@@ -156,8 +166,10 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 ## Skills Demonstrated
 
 - IPv4 Addressing
+- IPv6 Addressing
 - Subnetting Fundamentals
 - ARP Analysis
+- Neighbor Discovery Protocol (NDP)
 - Router Configuration
 - Static Routing
 - Dynamic Routing (OSPF)
@@ -190,5 +202,5 @@ To develop practical networking skills, build a professional portfolio, and prep
 ## Notes
 
 - Each lab includes screenshots, configuration verification, and documented results.
-- Labs are designed to build progressively from basic networking concepts to more advanced routing, switching, security, services, and troubleshooting scenarios.
+- Labs are designed to build progressively from basic networking concepts to more advanced routing, switching, security, services, IPv6, and troubleshooting scenarios.
 - All labs are created and documented using Cisco Packet Tracer and GitHub.
