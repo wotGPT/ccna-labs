@@ -163,6 +163,16 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Tested end-to-end IPv6 communication between remote LANs
 - Reinforced IPv6 routing concepts using static routes
 
+### Lab-19-Port-Security
+
+- Configured Cisco Port Security on an access switch
+- Enabled Sticky MAC address learning
+- Limited switchport access to a single authorized device
+- Simulated an unauthorized device connection
+- Observed Port Security violation and secure shutdown
+- Recovered the interface and restored the authorized workstation
+- Demonstrated enterprise access-layer switch security
+
 ---
 
 ## Tools Used
@@ -175,6 +185,9 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 
 ## Skills Demonstrated
 
+- Switch Port Security
+- Sticky MAC Address Learning
+- Layer 2 Access Security
 - IPv4 Addressing
 - IPv6 Addressing
 - IPv6 Static Routing
@@ -211,6 +224,6 @@ To develop practical networking skills, build a professional GitHub portfolio, a
 
 ## Notes
 
-- Each lab includes screenshots, configuration verification, and documented results.
+- Each lab includes screenshots, configuration verification, troubleshooting steps, and documented results.
 - Labs are designed to build progressively from networking fundamentals to enterprise routing, switching, IPv6, security, services, and troubleshooting.
 - All labs are created and documented using Cisco Packet Tracer and GitHub.
