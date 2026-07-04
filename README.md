@@ -173,6 +173,17 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Recovered the interface and restored the authorized workstation
 - Demonstrated enterprise access-layer switch security
 
+### Lab-20-OSPFv3-IPv6
+
+- Configured OSPFv3 dynamic routing for IPv6
+- Enabled IPv6 routing on Cisco routers
+- Assigned IPv6 addresses to LAN and WAN interfaces
+- Configured OSPFv3 directly on router interfaces
+- Established OSPFv3 neighbor relationships
+- Verified dynamically learned IPv6 routes
+- Tested end-to-end IPv6 connectivity using OSPFv3
+- Reinforced the similarities and differences between OSPFv2 (IPv4) and OSPFv3 (IPv6)
+
 ---
 
 ## Tools Used
@@ -185,6 +196,10 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 
 ## Skills Demonstrated
 
+- OSPFv3
+- IPv6 Dynamic Routing
+- IPv6 Neighbor Relationships
+- Dynamic Route Verification
 - Switch Port Security
 - Sticky MAC Address Learning
 - Layer 2 Access Security
