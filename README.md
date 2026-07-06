@@ -273,10 +273,19 @@ To develop practical networking skills, build a professional GitHub portfolio, a
 
 ## What's Next?
 
-After completing the CCNA Exam, my next goals are:
+This repository represents my journey toward earning the Cisco CCNA certification and transitioning into a career in networking.
 
+My current roadmap includes:
+
+- Complete the remaining CCNA Packet Tracer labs
+- Continue progressing through Jeremy's IT Lab CCNA course
+- Reinforce subnetting skills through regular practice
+- Review Cisco networking concepts using Anki flashcards
 - Earn the Cisco CCNA certification
-- Learn Python network automation
-- Explore Ansible for network configuration management
-- Build GNS3/EVE-NG enterprise labs
-- Continue expanding this repository with real-world networking projects
+- Build Python network automation projects
+- Learn Ansible for network automation
+- Expand into GNS3 and EVE-NG enterprise labs
+- Continue growing this repository with real-world networking projects
+- Begin my career as a Network Operations Center (NOC) Technician
+
+This repository will continue evolving as I gain new skills, earn certifications, and build experience throughout my networking career.
