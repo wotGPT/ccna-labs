@@ -268,3 +268,15 @@ To develop practical networking skills, build a professional GitHub portfolio, a
 - All labs are created and documented using Cisco Packet Tracer and GitHub.
 - Jeremy's IT Lab CCNA video course and Anki flash cards used to study alongside labs.
 - Subnetting course goes into further detail on subnetting concepts.
+
+---
+
+## What's Next?
+
+After completing the CCNA Exam, my next goals are:
+
+- Earn the Cisco CCNA certification
+- Learn Python network automation
+- Explore Ansible for network configuration management
+- Build GNS3/EVE-NG enterprise labs
+- Continue expanding this repository with real-world networking projects
