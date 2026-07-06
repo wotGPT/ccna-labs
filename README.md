@@ -266,3 +266,5 @@ To develop practical networking skills, build a professional GitHub portfolio, a
 - Each lab includes screenshots, configuration verification, troubleshooting steps, and documented results.
 - Labs are designed to build progressively from networking fundamentals to enterprise routing, switching, IPv6, security, services, and troubleshooting.
 - All labs are created and documented using Cisco Packet Tracer and GitHub.
+- Jeremy's IT Lab CCNA video course and Anki flash cards used to study alongside labs.
+- Subnetting course goes into further detail on subnetting concepts.
