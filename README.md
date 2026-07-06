@@ -194,6 +194,15 @@ This repository contains hands-on labs completed and resources used while studyi
 - Verified automatic gateway failover and recovery
 - Demonstrated high availability using First Hop Redundancy Protocols (FHRPs)
 
+### Lab-22-Syslog-NTP
+
+- Configured centralized Syslog logging
+- Configured Network Time Protocol (NTP) clients
+- Enabled Syslog and NTP services on a centralized server
+- Verified router logging and NTP configuration
+- Investigated Packet Tracer limitations affecting Syslog and NTP
+- Reinforced the importance of centralized logging and synchronized time in enterprise network operations
+
 ---
 
 ## Tools Used
@@ -216,6 +225,11 @@ This repository contains hands-on labs completed and resources used while studyi
 
 ## Skills Demonstrated
 
+- Syslog
+- Network Time Protocol (NTP)
+- Centralized Logging
+- Network Monitoring
+- Time Synchronization
 - Hot Standby Router Protocol (HSRP)
 - First Hop Redundancy Protocols (FHRPs)
 - High Availability (HA)
