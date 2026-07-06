@@ -204,6 +204,13 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 
 ---
 
+## Additional Resources Used
+
+- Jeremy's IT Lab (CCNA Series)
+- Subnetting Course: https://subnetipv4.com/#learn
+
+---
+
 ## Skills Demonstrated
 
 - Hot Standby Router Protocol (HSRP)
