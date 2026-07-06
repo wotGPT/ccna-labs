@@ -184,6 +184,16 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 - Tested end-to-end IPv6 connectivity using OSPFv3
 - Reinforced the similarities and differences between OSPFv2 (IPv4) and OSPFv3 (IPv6)
 
+### Lab-21-HSRP
+
+- Configured Hot Standby Router Protocol (HSRP)
+- Created a virtual default gateway for client devices
+- Configured Active and Standby router roles
+- Assigned HSRP priorities and enabled preemption
+- Simulated a primary router failure
+- Verified automatic gateway failover and recovery
+- Demonstrated high availability using First Hop Redundancy Protocols (FHRPs)
+
 ---
 
 ## Tools Used
@@ -196,6 +206,10 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 
 ## Skills Demonstrated
 
+- Hot Standby Router Protocol (HSRP)
+- First Hop Redundancy Protocols (FHRPs)
+- High Availability (HA)
+- Gateway Redundancy
 - OSPFv3
 - IPv6 Dynamic Routing
 - IPv6 Neighbor Relationships
