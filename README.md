@@ -206,10 +206,11 @@ This repository contains hands-on labs completed and resources used while studyi
 
 ## Additional Resources Used
 
-- Jeremy's IT Lab CCNA Series: https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
-- Anki Flash Cards (Desktop/Mobile)
-- Jeremy's CCNA Labs and Anki Decks: https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi?usp=drive_link
 - Subnetting Course: https://subnetipv4.com/#learn
+- Anki Flash Cards (Desktop/Mobile)
+- Jeremy's IT Lab CCNA Series: https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
+- Jeremy's CCNA Labs and Anki Decks: https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi?usp=drive_link
+
 
 ---
 
