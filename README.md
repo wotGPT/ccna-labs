@@ -199,15 +199,16 @@ This repository contains hands-on labs completed while studying for the CCNA cer
 ## Tools Used
 
 - Cisco Packet Tracer
-- GitHub
+- GitHub (Desktop/Mobile)
 - Markdown Documentation
 
 ---
 
 ## Additional Resources Used
 
-- Jeremy's IT Lab (CCNA Series)
+- Jeremy's IT Lab (CCNA Series) https://www.youtube.com/@JeremysITLab
 - Subnetting Course: https://subnetipv4.com/#learn
+- Anki Flash Cards (Desktop/Mobile)
 
 ---
 
