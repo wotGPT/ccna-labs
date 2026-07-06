@@ -1,6 +1,6 @@
 # CCNA Lab Portfolio
 
-This repository contains hands-on labs completed while studying for the CCNA certification. Each lab demonstrates practical networking skills, structured troubleshooting, and an understanding of core networking concepts required for entry-level networking and NOC positions.
+This repository contains hands-on labs completed and resources used while studying for the CCNA certification. Each lab demonstrates practical networking skills, structured troubleshooting, and an understanding of core networking concepts required for entry-level networking and NOC positions.
 
 ---
 
