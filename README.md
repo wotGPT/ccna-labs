@@ -212,6 +212,16 @@ This repository contains hands-on labs completed and resources used while studyi
 - Demonstrated how routers forward DHCP requests across subnet boundaries
 - Reinforced centralized DHCP design used in enterprise networks
 
+### Lab-24-Enterprise-Integration
+
+- Integrated multiple CCNA technologies into a single enterprise network
+- Configured VLANs and 802.1Q trunking
+- Implemented Router-on-a-Stick for inter-VLAN routing
+- Configured centralized DHCP using DHCP Relay (`ip helper-address`)
+- Configured OSPF dynamic routing
+- Applied and verified extended ACLs
+- Reinforced structured enterprise troubleshooting techniques
+
 ---
 
 ## Tools Used
@@ -233,6 +243,10 @@ This repository contains hands-on labs completed and resources used while studyi
 
 ## Skills Demonstrated
 
+- Enterprise Network Integration
+- Router-on-a-Stick
+- Multi-Technology Troubleshooting
+- Layer 2 / Layer 3 Integration
 - DHCP Relay
 - `ip helper-address`
 - Centralized DHCP Services
