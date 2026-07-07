@@ -203,6 +203,15 @@ This repository contains hands-on labs completed and resources used while studyi
 - Investigated Packet Tracer limitations affecting Syslog and NTP
 - Reinforced the importance of centralized logging and synchronized time in enterprise network operations
 
+### Lab-23-DHCP-Relay
+
+- Configured a centralized DHCP server
+- Configured static routing between multiple subnets
+- Configured DHCP Relay using `ip helper-address`
+- Verified remote DHCP address assignment
+- Demonstrated how routers forward DHCP requests across subnet boundaries
+- Reinforced centralized DHCP design used in enterprise networks
+
 ---
 
 ## Tools Used
@@ -224,6 +233,10 @@ This repository contains hands-on labs completed and resources used while studyi
 
 ## Skills Demonstrated
 
+- DHCP Relay
+- `ip helper-address`
+- Centralized DHCP Services
+- Enterprise DHCP Design
 - Syslog
 - Network Time Protocol (NTP)
 - Centralized Logging
