@@ -222,6 +222,20 @@ This repository contains hands-on labs completed and resources used while studyi
 - Applied and verified extended ACLs
 - Reinforced structured enterprise troubleshooting techniques
 
+### Lab-25-CCNA-Capstone
+  * Designed and configured a redundant enterprise-style network integrating major CCNA technologies
+  * Configured four departmental VLANs with 802.1Q trunking and Router-on-a-Stick inter-VLAN routing
+  * Implemented HSRP with priority and preemption for redundant default gateway services
+  * Configured centralized DHCP with redundant DHCP Relay using `ip helper-address`
+  * Established OSPF Area 0 routing and verified a FULL neighbor adjacency
+  * Applied extended ACLs to restrict Engineering access to the Management network
+  * Configured redundant ACL policies to maintain security during gateway failover
+  * Simulated a primary router failure and verified automatic HSRP failover to the secondary router
+  * Verified client connectivity, DHCP Relay, and ACL enforcement remained operational during failover
+  * Restored the primary router and verified automatic HSRP preemption and network recovery
+  * Performed final end-to-end verification of VLANs, trunks, routing, redundancy, DHCP, and security
+  * Demonstrated structured troubleshooting, failure testing, and multi-technology enterprise network integration
+
 ---
 
 ## Tools Used
@@ -243,6 +257,12 @@ This repository contains hands-on labs completed and resources used while studyi
 
 ## Skills Demonstrated
 
+- HSRP Failover and Preemption
+- Redundant Gateway Design
+- Redundant DHCP Relay
+- Security Policy Redundancy
+- Failure Testing and Recovery
+- Enterprise Network Validation
 - Enterprise Network Integration
 - Router-on-a-Stick
 - Multi-Technology Troubleshooting
@@ -317,15 +337,14 @@ This repository represents my journey toward earning the Cisco CCNA certificatio
 
 My current roadmap includes:
 
-- Complete the remaining CCNA Packet Tracer labs
-- Continue progressing through Jeremy's IT Lab CCNA course
-- Reinforce subnetting skills through regular practice
-- Review Cisco networking concepts using Anki flashcards
-- Earn the Cisco CCNA certification
-- Build Python network automation projects
-- Learn Ansible for network automation
-- Expand into GNS3 and EVE-NG enterprise labs
-- Continue growing this repository with real-world networking projects
-- Begin my career as a Network Operations Center (NOC) Technician
+* Continue progressing through Jeremy's IT Lab CCNA course
+* Reinforce subnetting skills through regular practice
+* Review Cisco networking concepts using Anki flashcards
+* Prepare for and earn the Cisco CCNA certification
+* Build Python network automation projects
+* Learn Ansible for network automation
+* Expand into GNS3 and EVE-NG enterprise labs
+* Continue growing this repository with post-CCNA and real-world networking projects
+* Begin my career as a Network Operations Center (NOC) Technician
 
 This repository will continue evolving as I gain new skills, earn certifications, and build experience throughout my networking career.
